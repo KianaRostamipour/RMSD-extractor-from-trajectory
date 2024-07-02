@@ -1,0 +1,2 @@
+This code reads RMSD values from a trajectory analysis file and generates a bash script (generate_structures.sh). The generated bash script is used to extract PDB structures from trajectory files at specific time points corresponding to RMSD quartiles.
+Replace 'PDB ID' with the appropriate protein name as needed.
